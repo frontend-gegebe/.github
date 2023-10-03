@@ -6,6 +6,3 @@
 - 🤝 I’m looking for help with **Non-profit projects**
 
 - 💬 Ask me about **Accessibility, Usability, UX in general**
-
-
-
