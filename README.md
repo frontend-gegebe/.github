@@ -7,7 +7,5 @@
 
 - 💬 Ask me about **Accessibility, Usability, UX in general**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
